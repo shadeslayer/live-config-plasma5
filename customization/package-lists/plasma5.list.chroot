@@ -1,4 +1,5 @@
 plasma-workspace
+plasma-workspace-wayland
 kde-cli-tools
 kio
 kio-extras
