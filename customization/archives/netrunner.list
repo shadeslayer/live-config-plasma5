@@ -1,2 +1,3 @@
 deb http://pangea-data.s3.amazonaws.com/dci/frameworks/debian sid main
+deb http://pangea-data.s3.amazonaws.com/dci/rpi/debian sid main
 deb http://pangea-data.s3.amazonaws.com/dci/plasma/debian sid main
