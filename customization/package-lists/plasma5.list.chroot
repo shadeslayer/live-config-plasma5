@@ -1,6 +1,5 @@
 plasma-workspace
 kde-cli-tools
-kde-gtk-config
 kio
 kio-extras
 plasma-pa
@@ -19,9 +18,8 @@ xdg-user-dirs
 kwin
 plasma-desktop
 plasma-framework
-xorg
-xserver-xorg
-xserver-xorg-video-all
+kwin-wayland
+kwin-wayland-backend-drm
 console-data
 console-setup
 kbd
