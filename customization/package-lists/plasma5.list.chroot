@@ -24,3 +24,6 @@ kwin-wayland-backend-drm
 console-data
 console-setup
 kbd
+xorg
+xserver-xorg
+xserver-xorg-video-all
