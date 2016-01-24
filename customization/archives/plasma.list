@@ -1,3 +1,3 @@
-deb http://pangea-data-lax-dci.s3.amazonaws.com/dci/frameworks/debian sid main
-deb http://pangea-data-lax-dci.s3.amazonaws.com/dci/rpi/debian sid main
-deb http://pangea-data-lax-dci.s3.amazonaws.com/dci/plasma/debian sid main
+deb http://dci.ds9.pub:8080/frameworks unstable main
+deb http://dci.ds9.pub:8080/rpi unstable main
+deb http://dci.ds9.pub:8080/plasma unstable main
