@@ -21,6 +21,7 @@ plasma-desktop
 plasma-framework
 kwin-wayland
 kwin-wayland-backend-drm
+kwin-x11
 console-data
 console-setup
 kbd
